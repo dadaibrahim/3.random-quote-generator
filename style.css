@@ -1,0 +1,30 @@
+body{
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+
+.quote-box{
+    margin: 20px auto;
+    padding: 20px;
+    border:1px solid #ccc;
+    border-radius: 5px;
+    max-width: 400px;
+}
+
+.quote{
+    font-size: 1.2em;
+    margin-bottom: 10px;
+}
+
+.author{
+    font-size: 1em;
+    color: #555;
+}
+
+button{
+    margin-top: 10px;
+    padding: 10px 20px;
+    font-size: 1em;
+    cursor: pointer;
+}
